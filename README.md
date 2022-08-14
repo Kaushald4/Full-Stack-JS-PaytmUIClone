@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Paytm UI Clone (FULLY Responsive) [Live Link](https://live-proj-4.netlify.app)
+## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytmui.netlify.app/)
 
 #### Screenshot
 
